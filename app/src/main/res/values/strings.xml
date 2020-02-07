@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PushNotificationExample</string>
+
+    <string name="noti_channel_default">Primary Channel</string>
+    <string name="preview_activity">PreviewActivity</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="wakelock_tag">PushNotificationExample:notificationLock</string>
+    <string name="android_firebase_push_notification_example">Android Firebase Push notification Example</string>
+</resources>
